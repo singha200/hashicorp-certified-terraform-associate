@@ -81,3 +81,16 @@ Install Command Line Tools:
 ```bash
 xcode-select --install
 ```
+
+### # Day 01 - Quick Tasks
+
+## What to Do
+
+- [ ] Watch the Day 01 video and take notes
+
+## Tips
+
+- Keep it simple and clear, feel free to take AI assistance but do not overuse it
+- Use your own diagrams
+
+Good luck! 🚀
