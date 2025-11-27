@@ -21,6 +21,7 @@ Provisioning your infrastructure through code instead of manual processes.
 - **Version Control**: Track changes in Git
 - **Reduced Human Error**: Eliminate manual configuration mistakes
 - **Collaboration**: Team can work together on infrastructure
+- **Testing**: Test before actually provisioning the infra.
 
 ### Benefits of IaC
 - Consistent environment deployment
